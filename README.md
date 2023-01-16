@@ -3,7 +3,7 @@
 Visit the live site!
 [akyandrew2022.com](http://akyandrew2022.com)
 
-note: the database has been dumped, so the RSVP form on the live site no longer works. You can see images of the views in this document below.
+(Note: the database has been dumped, so the RSVP form on the live site no longer works, but you can see images of those views in this document below.)
 
 ![Homepage](public/docs/weddingsite_home.png)
 
