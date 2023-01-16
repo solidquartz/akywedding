@@ -3,7 +3,7 @@
 Visit the live site!
 [akyandrew2022.com](http://akyandrew2022.com)
 
-![Homepage](public/docs/weddingsite_home.png)
+![Homepage](public/docs/weddingsite_home.png) (note: the database has been dumped, so the RSVP form no longer works. You can see images of the views in this document below)
 
 A website for my wedding.
 A collaboration between [Aky Mac Donald](https://github.com/solidquartz) (Front End with some Back End database work) and [Kevin Bernfeld](https://github.com/myopicmage) (Back End)
